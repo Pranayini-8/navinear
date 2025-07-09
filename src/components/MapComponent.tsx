@@ -50,9 +50,9 @@ const customStyles: StylesConfig<OptionType, false> = {
 export default function MapComponent() {
   // Load map data using Mappedin API key
   const { isLoading, error, mapData } = useMapData({
-    key: "mik_W8fMx1wWJyjevBMlt556607d1",
-    secret: "mis_7jP7bMUYKfxM7BRujInCObPv5PvUwnHAk2NzNyIPJFF87fd1018",
-    mapId: "67d6048435a08c000b263e28",
+    key: "ADD KEY HERE",
+    secret: "ADD SECRET HERE",
+    mapId: "ADD MAP ID",
   });
 
   // State variables
